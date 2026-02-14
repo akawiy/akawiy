@@ -2,7 +2,7 @@
 
 I'm a frontend-developer and python enthusiast who enjoys coding in general, here on my GitHub profile you'll find most of my projects :)
 
-### Languages & Frameworks
+### Programming Languages & Frameworks
 
 * Python
 * Java
