@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**akawiy/akawiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend-developer and python enthusiast who enjoys coding in general, here on my GitHub profile you'll find most of my projects :)
 
-Here are some ideas to get you started:
+### Languages & Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Java
+* JavaScript
+* TypeScript
+* React (Webpack and Vite)
+* Flask
+* C++ (a little bit)
+
+### Software & Tools
+
+* PyCharm
+* IntelliJ IDEA
+* Visual Studio Code
+* Git
+
+### Languages
+* Russian (native)
+* English (C1)
