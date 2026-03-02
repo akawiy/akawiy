@@ -1,24 +1,24 @@
 ## Hi there 👋
 
-I'm a frontend-developer and python enthusiast who enjoys coding in general, here on my GitHub profile you'll find most of my projects :)
+Welcome to my GitHub profile :)
 
 ### Programming Languages & Frameworks
 
-* Python
-* Java
-* JavaScript
-* TypeScript
-* React (Webpack and Vite)
-* Flask
-* C++ (a little bit)
+- Python
+- Java
+- JavaScript
+- TypeScript
+- React (Webpack and Vite)
+- Flask
+- C++
 
 ### Software & Tools
 
-* PyCharm
-* IntelliJ IDEA
-* Visual Studio Code
-* Git
+- PyCharm
+- IntelliJ IDEA
+- Visual Studio Code
+- Git
 
 ### Languages
-* Russian (native)
-* English (C1)
+- Russian (native)
+- English (C1)
