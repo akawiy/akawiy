@@ -18,6 +18,7 @@ Welcome to my GitHub profile :)
 - IntelliJ IDEA
 - Visual Studio Code
 - Git
+- CLion
 
 ### Languages
 - Russian (native)
